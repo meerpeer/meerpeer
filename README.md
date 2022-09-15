@@ -25,10 +25,10 @@ Below are all my of project grades ✅:
 - **ft_printf:**    
 [![mevan-de's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl82t5bg600350gkxl3yegwhv/project/2428683)](https://github.com/JaeSeoKim/badge42)
 
-- **get_next_line:**
+- **get_next_line:**        
 [![mevan-de's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl82t5bg600350gkxl3yegwhv/project/2398885)](https://github.com/JaeSeoKim/badge42)
 
-- **Libft:**
+- **Libft:**          
 [![mevan-de's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl82t5bg600350gkxl3yegwhv/project/2398885)](https://github.com/JaeSeoKim/badge42)
 
 <!--
