@@ -4,6 +4,8 @@
 
 Below are some of my Codam/ 42 projects:
 
+- [**philosophers**](https://github.com/meerpeer/Philosophers)
+
 - **pipex:**    
 [![mevan-de's 42 pipex Score](https://badge42.vercel.app/api/v2/cl82t5bg600350gkxl3yegwhv/project/2746530)](https://github.com/meerpeer/pipex)
 
